@@ -109,25 +109,6 @@ portfolio/
 
 <br/>
 
-## Running Locally
-
-The site has no build step — it's static HTML, CSS, and JavaScript.
-
-```bash
-# Clone the repository
-git clone https://github.com/abhayraj81/portfolio.git
-cd portfolio
-
-# Serve it with any static server, for example:
-npx serve .
-# or
-python -m http.server 8000
-```
-
-Then open `http://localhost:8000` (or the port your server prints) in a browser.
-
-<br/>
-
 ## Featured Projects
 
 | Project | Description | Stack |
