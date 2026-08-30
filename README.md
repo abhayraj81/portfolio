@@ -4,7 +4,7 @@
 
 # Abhay Raj — Portfolio
 
-### Software Development & Technical Support Engineer
+### Software Development & Technical Engineer
 
 Precision, carried from the workbench to the codebase.
 MCA student building layered REST APIs with Java & Spring Boot — trained on precision hardware before precision code.
